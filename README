@@ -1,0 +1,7 @@
+How to run:
+	Compile and run program with a C++ compiler. No extra steps are needed, all code is in 1 file.
+	To use the library, declare an instance of the DataProcessing class, and call the functions using that instance with the appropriate parameters.
+
+	Writeup:
+		There are a few things I would suggest before this becomes an official assignment. I think the rubric needs to be fleshed out with more details on what the code should look like, and how many points each component is worth.
+		I would also lengthen the assignment, as it is pretty short. I would require  a function to get the total monetary cost of the current transaction, as well as one for the entire database. I would also require a function to output the entire database to standard output in a readable way.
